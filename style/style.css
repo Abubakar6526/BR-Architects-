@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+header{
+    
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#Hero{
+    background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
